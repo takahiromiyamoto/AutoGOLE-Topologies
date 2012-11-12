@@ -48,7 +48,7 @@
   <owl:NamedIndividual rdf:about="urn:ogf:network:kddilabs.jp:2012:nsa">
     <rdf:type rdf:resource="http://schemas.ogf.org/nsi/2012/10/topology#NSA"/>
     <nsi:csProviderEndpoint rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
-            http://210.196.65.114:9352/connectionprovider
+		http://210.196.65.114:9352/2012/03/connectionprovider
         </nsi:csProviderEndpoint>
     <nsi:adminContact rdf:datatype="http://www.w3.org/2001/XMLSchema#string">
             NSA: G-Lambda/KDDILabs (KDDI Labs) 
